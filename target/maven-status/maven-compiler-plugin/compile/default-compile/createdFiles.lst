@@ -1,0 +1,9 @@
+by\gubko\sample\domain\OrderStatus.class
+by\gubko\sample\service\OrderService.class
+Run.class
+by\gubko\sample\domain\User.class
+by\gubko\sample\domain\OrderItem.class
+by\gubko\sample\persistence\OrderItemStorage.class
+by\gubko\sample\service\OrderValidator.class
+by\gubko\sample\persistence\OrderStorage.class
+by\gubko\sample\domain\Order.class
